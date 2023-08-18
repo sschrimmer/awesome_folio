@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d5a5197.css",
-    "main.js": "/static/js/main.14487990.js",
-    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
-    "static/media/Profile_Pic.JPG": "/static/media/Profile_Pic.8e5042f832e6567afe66.JPG",
-    "static/media/5330558.jpg": "/static/media/5330558.100910fd80e5b3c1e2e8.jpg",
-    "static/media/Weather_Dash.png": "/static/media/Weather_Dash.d8908afb02bee37da20b.png",
-    "static/media/StevenResume2023.pdf": "/static/media/StevenResume2023.fa1acc906eec8c85c76d.pdf",
-    "static/media/NoteTaker.png": "/static/media/NoteTaker.eee15a9ed054ad67e8ba.png",
-    "static/media/ForeignExchange.png": "/static/media/ForeignExchange.f818bd7ed30dff8c6935.png",
-    "static/media/StockTalk.png": "/static/media/StockTalk.0da274bbbd5dd6e0ace1.png",
-    "index.html": "/index.html",
-    "main.1d5a5197.css.map": "/static/css/main.1d5a5197.css.map",
-    "main.14487990.js.map": "/static/js/main.14487990.js.map",
-    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/awesome_folio/static/css/main.6e437dc4.css",
+    "main.js": "/awesome_folio/static/js/main.6fec8a40.js",
+    "static/js/787.a2cb61a6.chunk.js": "/awesome_folio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Profile_Pic.JPG": "/awesome_folio/static/media/Profile_Pic.8e5042f832e6567afe66.JPG",
+    "static/media/5330558.jpg": "/awesome_folio/static/media/5330558.100910fd80e5b3c1e2e8.jpg",
+    "static/media/Weather_Dash.png": "/awesome_folio/static/media/Weather_Dash.d8908afb02bee37da20b.png",
+    "static/media/StevenResume2023.pdf": "/awesome_folio/static/media/StevenResume2023.fa1acc906eec8c85c76d.pdf",
+    "static/media/NoteTaker.png": "/awesome_folio/static/media/NoteTaker.eee15a9ed054ad67e8ba.png",
+    "static/media/ForeignExchange.png": "/awesome_folio/static/media/ForeignExchange.f818bd7ed30dff8c6935.png",
+    "static/media/StockTalk.png": "/awesome_folio/static/media/StockTalk.0da274bbbd5dd6e0ace1.png",
+    "index.html": "/awesome_folio/index.html",
+    "main.6e437dc4.css.map": "/awesome_folio/static/css/main.6e437dc4.css.map",
+    "main.6fec8a40.js.map": "/awesome_folio/static/js/main.6fec8a40.js.map",
+    "787.a2cb61a6.chunk.js.map": "/awesome_folio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d5a5197.css",
-    "static/js/main.14487990.js"
+    "static/css/main.6e437dc4.css",
+    "static/js/main.6fec8a40.js"
   ]
 }
